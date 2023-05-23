@@ -1,2 +1,2 @@
 # MatlabFig
-Simple code used to produce figures from MATLAB .fig files using Python. Advanced Lab II. Spring 2023.
+Simple code to produce figures from MATLAB csv data using Python. Advanced Lab II. Spring 2023.
